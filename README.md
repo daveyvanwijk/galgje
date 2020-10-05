@@ -3,7 +3,7 @@
 ## Te raden woord
 
 |*|*|*|*|*|
-|M|O|T|O|-|
+|M|O|T|O|R|
 |1|2|3|4|5|
 
 ## Score
